@@ -18,8 +18,8 @@ public class MainPassportProgram {
          * Data
          *******************************************************************/
         // account information
-        String user = "christianesl";
-        String password = "Mty10dark";
+        String user = "user";
+        String password = "password";
         String urlGSuite = "http://gmail.com"; // company site
 
         // excel data
